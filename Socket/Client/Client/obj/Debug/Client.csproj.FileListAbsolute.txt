@@ -1,0 +1,11 @@
+C:\Users\Arthur\Desktop\Socket\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Arthur\Desktop\Socket\Client\Client\bin\Debug\Client.exe
+C:\Users\Arthur\Desktop\Socket\Client\Client\bin\Debug\Client.pdb
+C:\Users\Arthur\Desktop\Socket\Client\Client\obj\Debug\Client.exe
+C:\Users\Arthur\Desktop\Socket\Client\Client\obj\Debug\Client.pdb
+C:\Users\Arthur\Desktop\workspace\Socket\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Arthur\Desktop\workspace\Socket\Client\Client\obj\Debug\Client.exe
+C:\Users\Arthur\Desktop\workspace\Socket\Client\Client\obj\Debug\Client.pdb
+C:\Users\Arthur\Desktop\workspace\Socket\Client\Client\bin\Debug\Client.exe
+C:\Users\Arthur\Desktop\workspace\Socket\Client\Client\bin\Debug\Client.pdb
+C:\Users\Arthur\Desktop\workspace\Socket\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

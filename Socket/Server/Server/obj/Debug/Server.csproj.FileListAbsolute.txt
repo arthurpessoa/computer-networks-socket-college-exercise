@@ -1,0 +1,13 @@
+C:\Users\Arthur\Desktop\Ragnarok Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Arthur\Desktop\Socket\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Arthur\Desktop\Socket\Server\Server\bin\Debug\Server.exe
+C:\Users\Arthur\Desktop\Socket\Server\Server\bin\Debug\Server.pdb
+C:\Users\Arthur\Desktop\Socket\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Socket\Server\Server\obj\Debug\Server.exe
+C:\Users\Arthur\Desktop\Socket\Server\Server\obj\Debug\Server.pdb
+C:\Users\Arthur\Desktop\workspace\Socket\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Arthur\Desktop\workspace\Socket\Server\Server\bin\Debug\Server.exe
+C:\Users\Arthur\Desktop\workspace\Socket\Server\Server\bin\Debug\Server.pdb
+C:\Users\Arthur\Desktop\workspace\Socket\Server\Server\obj\Debug\Server.exe
+C:\Users\Arthur\Desktop\workspace\Socket\Server\Server\obj\Debug\Server.pdb
+C:\Users\Arthur\Desktop\workspace\Socket\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
